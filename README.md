@@ -1,3 +1,3 @@
 # Pleasant-codes
-My personal website
+My first personal website
 about me
